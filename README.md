@@ -1,1 +1,1 @@
-# joseph_anthony_eacott
+This model uses both a discriminant analysis as well as kNN to determine what categories of items in a eBay auction dataset are predicted to be the most competitive. Then we use IMDB movie data, a kNN regression and resulting RMSE to predict what attributes best correlate to a movie receiving a high score.  
